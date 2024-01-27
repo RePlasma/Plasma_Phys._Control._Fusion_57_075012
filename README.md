@@ -6,7 +6,7 @@ Link to paper: https://iopscience.iop.org/article/10.1088/0741-3335/57/7/075012
 
 Citation: T G Blackburn 2015 _Plasma Phys. Control. Fusion_ __57__ 075012
 
-(Partially) reproduced by: Óscar Amaro
+(Partially) reproduced by: [Óscar Amaro](https://github.com/OsAmaro)
 
 In this notebook we reproduce Figures B1 and others in a Mathematica notebook.
 
